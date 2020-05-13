@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chit Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="login">Login</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_password">enter password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="remove"><u>REMOVE</u></string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="save">save</string>
+    <string name="change">Change</string>
+</resources>
